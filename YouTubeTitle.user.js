@@ -6,7 +6,7 @@
 // @icon         https://raw.githubusercontent.com/highstrike/youtube-title/master/icon.png
 // @namespace    https://github.com/highstrike/youtube-title
 // @version      1.0
-// @author       Highstrike
+// @author       highstrike
 // @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @require      https://code.jquery.com/jquery-2.2.4.min.js
 // @match        *://www.youtube.com/*
